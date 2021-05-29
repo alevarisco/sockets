@@ -4,7 +4,7 @@
 
 Para iniciar el programa:
 
-1. Ejecutar client.py
+1. Ejecutar `python client.py`
 2. Introducir una IP
 3. Introducir un puerto
 4. Introducir el usuario
